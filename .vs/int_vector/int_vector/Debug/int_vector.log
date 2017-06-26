@@ -1,6 +1,2 @@
-﻿  main.c
-  int_vector.c
-c:\users\isaac\source\repos\c\int_vector\int_vector\int_vector.c(79): warning C4018: '>=': signed/unsigned mismatch
-  Generating Code...
-  int_vector.vcxproj -> C:\Users\isaac\Source\Repos\c\int_vector\Debug\int_vector.exe
-  int_vector.vcxproj -> C:\Users\isaac\Source\Repos\c\int_vector\Debug\int_vector.pdb (Partial PDB)
+﻿  int_vector.vcxproj -> C:\Users\isaac\OneDrive\文件\Visual Studio 2017\Projects\int_vector\Debug\int_vector.exe
+  int_vector.vcxproj -> C:\Users\isaac\OneDrive\文件\Visual Studio 2017\Projects\int_vector\Debug\int_vector.pdb (Partial PDB)
